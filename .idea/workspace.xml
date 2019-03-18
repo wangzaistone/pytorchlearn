@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09bcd13a-0eaa-4d89-add3-a75607f749fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/多分类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/多项式模型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/神经网络.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/线性模型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/逻辑回归.py" afterDir="false" />
-    </list>
+    <list default="true" id="09bcd13a-0eaa-4d89-add3-a75607f749fb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/09/多分类.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="826">
-              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="364">
+              <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -268,12 +260,12 @@
       <workItem from="1552219070710" duration="1542000" />
       <workItem from="1552224556532" duration="6570000" />
       <workItem from="1552270788422" duration="1309000" />
-      <workItem from="1552458837876" duration="62581000" />
+      <workItem from="1552458837876" duration="63185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83717000" />
+    <option name="totallyTimeSpent" value="84321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1080" height="1924" extended-state="6" />
@@ -412,8 +404,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/09/多分类.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="364">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
